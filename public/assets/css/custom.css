@@ -1,0 +1,10 @@
+.tag {
+    white-space: normal;
+    margin-bottom:4px;
+}
+.headline {
+    margin-top: 20px;
+    margin-bottom:15px;
+}
+.mdb-gradient{
+	background: linear-gradient(135deg,#6bbbfb 0,#008dff 100%) !important;
