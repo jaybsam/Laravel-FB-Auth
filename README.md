@@ -20,12 +20,10 @@ Follow the instructions below:
 4. Rename `env.example` to `.env` & Configure `.env` file to your DB configuration
 
 ```php
-
-	DB_HOST=127.0.0.1
-	DB_DATABASE=social
-	DB_USERNAME=root
-	DB_PASSWORD=
-
+DB_HOST=127.0.0.1
+DB_DATABASE=social
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 3. Run Command `php artisan migrate`.
